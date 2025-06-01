@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+}
+
+.foto{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.foto2{
+   width: 50%;
+    height: 50%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+  
+}
